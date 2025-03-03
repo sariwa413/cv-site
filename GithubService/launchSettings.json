@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GithubService": {
+      "commandName": "Project"
+    },
+    "Staging": {
+      "commandName": "Project"
+    }
+  }
+}
